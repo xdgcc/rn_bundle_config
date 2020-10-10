@@ -1,0 +1,26 @@
+{
+    "rn_switch":"Y",
+    "version":"1",
+    "iosVersion":"1.0",
+    "ios":{
+        "common":{
+            "version":"1.0",
+            "url":"http://192.168.102.60:8888/common.zip"
+        },
+        "zeb_dynamic":{
+            "version":"1.0",
+            "url":"http://192.168.102.60:8888/sub.zip"
+        }
+    },
+    "androidVersion":"1.0",
+    "android":{
+        "common":{
+            "version":"1.0",
+            "url":"http://192.168.102.60:8888/common.zip"
+        },
+        "zeb_dynamic":{
+            "version":"1.0",
+            "url":"http://192.168.102.60:8888/sub.zip"
+        }
+    }
+}
